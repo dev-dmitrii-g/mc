@@ -7,7 +7,7 @@
 #include <iostream>
 #include <cmath>
 
-#define PROGRAM_NAME "./mc" 
+#define PROGRAM_NAME "mc" 
 #define VERSION "1.0"
 #define AUTHOR "dev-dmitrii-g"
 
